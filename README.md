@@ -8,7 +8,7 @@ Code and Resources that I have used to help you get started out with Generative 
 *  [Andrej Karpathy's GPT from Scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=3506s&ab_channel=AndrejKarpathy)
 *  [Reinforcement Learning from Human Feedback: From Zero to chatGPT](https://www.youtube.com/watch?v=2MBJOuVq380&ab_channel=HuggingFace)
 *  [Getting Started With Hugging Face in 15 Minutes | Transformers, Pipeline, Tokenizer, Models](https://www.youtube.com/watch?v=QEaBAZQCtwE&ab_channel=AssemblyAI)
-*  [Imitation Learning and Natural Language Generation at NeurIPS 2019 jointly with Hal Daume III]{https://slideslive.com/38922816/imitation-learning-and-its-application-to-natural-language-generation}
+*  [Imitation Learning and Natural Language Generation at NeurIPS 2019 jointly with Hal Daume III](https://slideslive.com/38922816/imitation-learning-and-its-application-to-natural-language-generation)
 ## Articles
 *  [Residual Blocks (we use something similar in the GPT model)](https://towardsdatascience.com/residual-blocks-building-blocks-of-resnet-fd90ca15d6ec)
 *  [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
